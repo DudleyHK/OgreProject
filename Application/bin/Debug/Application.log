@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\libraries and tools\libraries\ogre\sdk\ogre-sdk-2.1.0-vc140-x64-04.09.2017\include\ogre\vao\ogrebufferpacked.h(278): warning C4267: 'return': conversion from 'size_t' to 'Ogre::uint32', possible loss of data
+d:\libraries and tools\libraries\ogre\sdk\ogre-sdk-2.1.0-vc140-x64-04.09.2017\include\ogre\vao\ogrebufferpacked.h(280): warning C4267: 'return': conversion from 'size_t' to 'Ogre::uint32', possible loss of data
+d:\libraries and tools\libraries\ogre\sdk\ogre-sdk-2.1.0-vc140-x64-04.09.2017\include\ogre\vao\ogrebufferpacked.h(285): warning C4267: 'return': conversion from 'size_t' to 'Ogre::uint32', possible loss of data
+d:\libraries and tools\libraries\ogre\sdk\ogre-sdk-2.1.0-vc140-x64-04.09.2017\include\ogre\vao\ogrebufferpacked.h(286): warning C4267: 'return': conversion from 'size_t' to 'Ogre::uint32', possible loss of data
+  Application.vcxproj -> C:\Users\Dudley\Desktop\OnGoing\Personal\OgreProjects\OgreProject\bin\Debug\Application.exe
+  Application.vcxproj -> C:\Users\Dudley\Desktop\OnGoing\Personal\OgreProjects\OgreProject\bin\Debug\Application.pdb (Partial PDB)

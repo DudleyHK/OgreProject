@@ -1,0 +1,147 @@
+23:47:20: Creating resource group General
+23:47:20: Creating resource group Internal
+23:47:20: Creating resource group Autodetect
+23:47:20: SceneManagerFactory for type 'DefaultSceneManager' registered.
+23:47:20: Registering ResourceManager for type Material
+23:47:20: Registering ResourceManager for type Mesh
+23:47:20: Registering ResourceManager for type Mesh2
+23:47:20: Registering ResourceManager for type OldSkeleton
+23:47:20: MovableObjectFactory for type 'ParticleSystem' registered.
+23:47:20: ArchiveFactory for archive type FileSystem registered.
+23:47:20: ArchiveFactory for archive type Zip registered.
+23:47:20: ArchiveFactory for archive type EmbeddedZip registered.
+23:47:20: DDS codec registering
+23:47:20: FreeImage version: 3.18.0
+23:47:20: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+23:47:20: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,psb,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+23:47:20: ETC codec registering
+23:47:20: Registering ResourceManager for type HighLevelGpuProgram
+23:47:20: MovableObjectFactory for type 'Entity' registered.
+23:47:20: MovableObjectFactory for type 'Item' registered.
+23:47:20: MovableObjectFactory for type 'Light' registered.
+23:47:20: MovableObjectFactory for type 'BillboardSet' registered.
+23:47:20: MovableObjectFactory for type 'ManualObject2' registered.
+23:47:20: MovableObjectFactory for type 'BillboardChain' registered.
+23:47:20: MovableObjectFactory for type 'RibbonTrail' registered.
+23:47:20: MovableObjectFactory for type 'WireAabb' registered.
+23:47:20: *-*-* OGRE Initialising
+23:47:20: *-*-* Version 2.1.0unstable (Tindalos)
+23:47:20: Loading library RenderSystem_Direct3D11
+23:47:20: Installing plugin: D3D11 RenderSystem
+23:47:20: D3D11 : Direct3D11 Rendering Subsystem created.
+23:47:21: D3D11: Driver Detection Starts
+23:47:21: D3D11: Driver Detection Ends
+23:47:21: Plugin successfully installed
+23:47:21: CPU Identifier & Features
+23:47:21: -------------------------
+23:47:21:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7-4712MQ CPU @ 2.30GHz
+23:47:21:  *   Logical cores: 8
+23:47:21:  *      SSE: yes
+23:47:21:  *     SSE2: yes
+23:47:21:  *     SSE3: yes
+23:47:21:  *      MMX: yes
+23:47:21:  *   MMXEXT: yes
+23:47:21:  *    3DNOW: no
+23:47:21:  * 3DNOWEXT: no
+23:47:21:  *     CMOV: yes
+23:47:21:  *      TSC: yes
+23:47:21:  *      FPU: yes
+23:47:21:  *      PRO: yes
+23:47:21:  *       HT: no
+23:47:21: -------------------------
+23:47:21: D3D11 : Subsystem Initialising
+23:47:21: ***************************************
+23:47:21: *** D3D11 : Subsystem Initialized OK ***
+23:47:21: ***************************************
+23:47:21: D3D11RenderSystem::_createRenderWindow "Window", 800x600 windowed  miscParams: FSAA=0 vsync=true 
+23:47:21: D3D11 : Created D3D11 Rendering Window 'Window' : 800x600, 32bpp
+23:47:21: Registering ResourceManager for type Texture
+23:47:21: Registering ResourceManager for type GpuProgram
+23:47:21: RenderSystem capabilities
+23:47:21: -------------------------
+23:47:21: RenderSystem Name: Direct3D11 Rendering Subsystem
+23:47:21: GPU Vendor: intel
+23:47:21: Device Name: Intel(R) HD Graphics 4600_0
+23:47:21: Driver Version: 20.19.15.4531
+23:47:21:  * Fixed function pipeline: no
+23:47:21:  * Hardware generation of mipmaps: yes
+23:47:21:  * Texture blending: yes
+23:47:21:  * Anisotropic texture filtering: yes
+23:47:21:  * Dot product texture operation: yes
+23:47:21:  * Cube mapping: yes
+23:47:21:  * Hardware stencil buffer: yes
+23:47:21:    - Stencil depth: 8
+23:47:21:    - Two sided stencil support: yes
+23:47:21:    - Wrap stencil values: yes
+23:47:21:  * Hardware vertex / index buffers: yes
+23:47:21:  * 32-bit index buffers: yes
+23:47:21:  * Vertex programs: yes
+23:47:21:  * Number of floating-point constants for vertex programs: 512
+23:47:21:  * Number of integer constants for vertex programs: 16
+23:47:21:  * Number of boolean constants for vertex programs: 16
+23:47:21:  * Fragment programs: yes
+23:47:21:  * Number of floating-point constants for fragment programs: 512
+23:47:21:  * Number of integer constants for fragment programs: 16
+23:47:21:  * Number of boolean constants for fragment programs: 16
+23:47:21:  * Geometry programs: yes
+23:47:21:  * Number of floating-point constants for geometry programs: 512
+23:47:21:  * Number of integer constants for geometry programs: 16
+23:47:21:  * Number of boolean constants for geometry programs: 16
+23:47:21:  * Tessellation Hull programs: yes
+23:47:21:  * Number of floating-point constants for tessellation hull programs: 512
+23:47:21:  * Number of integer constants for tessellation hull programs: 16
+23:47:21:  * Number of boolean constants for tessellation hull programs: 16
+23:47:21:  * Tessellation Domain programs: yes
+23:47:21:  * Number of floating-point constants for tessellation domain programs: 512
+23:47:21:  * Number of integer constants for tessellation domain programs: 16
+23:47:21:  * Number of boolean constants for tessellation domain programs: 16
+23:47:21:  * Compute programs: yes
+23:47:21:  * Number of floating-point constants for compute programs: 512
+23:47:21:  * Number of integer constants for compute programs: 16
+23:47:21:  * Number of boolean constants for compute programs: 16
+23:47:21:  * Supported Shader Profiles: cs_4_0 cs_4_1 cs_5_0 ds_5_0 gs_4_0 gs_4_1 gs_5_0 hlsl hs_5_0 ps_4_0 ps_4_0_level_9_1 ps_4_0_level_9_3 ps_4_1 ps_5_0 vs_4_0 vs_4_0_level_9_1 vs_4_0_level_9_3 vs_4_1 vs_5_0
+23:47:21:  * Texture Compression: yes
+23:47:21:    - DXT: yes
+23:47:21:    - VTC: no
+23:47:21:    - PVRTC: no
+23:47:21:    - ATC: no
+23:47:21:    - ETC1: no
+23:47:21:    - ETC2: no
+23:47:21:    - BC4/BC5: yes
+23:47:21:    - BC6H/BC7: yes
+23:47:21:  * Hardware Occlusion Query: yes
+23:47:21:  * User clip planes: yes
+23:47:21:  * VET_UBYTE4 vertex element type: yes
+23:47:21:  * Infinite far plane projection: yes
+23:47:21:  * Hardware render-to-texture: yes
+23:47:21:  * Floating point textures: yes
+23:47:21:  * Non-power-of-two textures: yes
+23:47:21:  * 1d textures: yes
+23:47:21:  * Volume textures: yes
+23:47:21:  * Max Texture resolution (2D) 16384
+23:47:21:  * Max Texture resolution (3D) 2048
+23:47:21:  * Max Texture resolution (Cubemaps) 16384
+23:47:21:  * Multiple Render Targets: 8
+23:47:21:    - With different bit depths: yes
+23:47:21:  * Point Sprites: yes
+23:47:21:  * Extended point parameters: yes
+23:47:21:  * Max Point Size: 256
+23:47:21:  * Vertex texture fetch: yes
+23:47:21:  * Number of world matrices: 0
+23:47:21:  * Number of texture units: 16
+23:47:21:  * Stencil buffer depth: 8
+23:47:21:  * Number of vertex blend matrices: 0
+23:47:21:    - Max vertex textures: 4
+23:47:21:    - Vertex textures shared: no
+23:47:21:  * Render to Vertex Buffer : yes
+23:47:21:  * Hardware Atomic Counters: no
+23:47:21: DefaultWorkQueue('Root') initialising on thread 2144.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 63c starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 3e40 starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 2944 starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 26c4 starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 1e00 starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 197c starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 2274 starting.
+23:47:21: DefaultWorkQueue('Root')::WorkerFunc - thread 18e0 starting.
+23:47:21: Particle Renderer Type 'billboard' registered
