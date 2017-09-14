@@ -150,6 +150,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="OgreApp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OgreApp.h" />
+    <ClInclude Include="ProjectSetupDefines.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
